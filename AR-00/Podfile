@@ -1,0 +1,5 @@
+
+target 'AR' do
+  use_frameworks!
+  pod 'OpenCV', '~> 3.4.1'
+end
